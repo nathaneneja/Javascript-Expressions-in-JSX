@@ -1,2 +1,2 @@
-# JSX-Code-Challenge
+# Javascript Expressions in JSX
 Created with CodeSandbox
